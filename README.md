@@ -1,4 +1,4 @@
-# Entity-Value-Extraction-from-Product-Images
+# Feature-Extraction-from-Product-Images
 
 
 Problem Statement
